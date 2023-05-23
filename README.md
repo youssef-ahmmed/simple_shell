@@ -23,10 +23,6 @@ $
 ```
 The shell **Reads** the expression, **Evaluate** it, **Print** the output to screen and finally it **Loop** again the prompt.
 
-
-### Algorithm behind shell: 
-1. Open terminal and write
-
 ---
 <!-- Write description for our shell we created -->
 
